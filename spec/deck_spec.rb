@@ -1,6 +1,6 @@
 # spec/deck_spec.rb
 
-require_relative "../solution.rb"
+require_relative "../app/models/deck.rb"
 
 describe "Deck" do
   let(:test_deck) { Deck.new }
